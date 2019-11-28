@@ -44,3 +44,5 @@ Will do this:
 ```
 
 In case there are errors in the process of syncing any subtitle, it will create a `.failed` file with the stacktrace.
+
+If you don't specify any `path` it will use the current path (`'.'`) to start syncing.
