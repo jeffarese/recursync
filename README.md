@@ -2,8 +2,8 @@
 Script to recursively sync (using ![Subsync](https://github.com/smacke/subsync)) all the subtitles of a folder and overwrite the old one (after backing it up). It won't try to sync previously synced subs on next iterations.
 
 # Requirements
-Python 3.6+
-![Subsync](https://github.com/smacke/subsync)
+- Python 3.6+
+- ![Subsync](https://github.com/smacke/subsync)
 
 # Example usage
 Having:
