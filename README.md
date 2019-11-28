@@ -11,6 +11,12 @@ History about it:
 - Python 3.6+
 - [Subsync](https://github.com/smacke/subsync)
 
+# Usage 
+`python rSubsync.py --lang xx --path /path`
+Only the `lang` is required. It needs to match the lang specified on your subtitle files, so
+
+If your subtitles are named like: `subtitle.en.srt` the lang need to be `en`.
+
 # Example usage
 Having:
 
