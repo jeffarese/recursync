@@ -13,9 +13,12 @@ History about it:
 
 # Usage 
 `python rSubsync.py --lang xx --path /path`
-Only the `lang` is required. It needs to match the lang specified on your subtitle files, so
+Only the `lang` is required. It needs to match the lang specified on your subtitle files, so:
 
-If your subtitles are named like: `subtitle.en.srt` the lang need to be `en`.
+If your subtitles are named like: 
+`subtitle.en.srt` 
+the lang needs to be 
+`en`.
 
 # Example usage
 Having:
